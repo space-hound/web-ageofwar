@@ -4,7 +4,7 @@ import CoverModule from "modules/CoverModule";
 
 import credits from "./credits.js";
 
-const PATH = "./../assets/";
+const PATH = "./assets/";
 
 const others = ( name, link ) => {
 
